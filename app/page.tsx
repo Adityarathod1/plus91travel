@@ -36,9 +36,9 @@ export default function Home() {
 
   const placeholders = [
     "Search for a hotel...",
-    "Compare prices for Taj Palace...",
-    "Find deals at Marriott...",
-    "Check rates for Hyatt Regency...",
+    "Compare prices for Grand Excelsior Hotel Bur Dubai...",
+    "Find deals at Hilton Dubai Jumeirah...",
+    "Check rates for Pullman Dubai Downtown...",
     "Looking for the best hotel deals?"
   ];
 
@@ -183,9 +183,9 @@ export default function Home() {
 
   const quickActions = [
     { icon: <Search className="w-3.5 h-3.5" />, label: "Grand Excelsior Hotel Bur Dubai", query: "Grand Excelsior Hotel Bur Dubai" },
-    { icon: <LayoutGrid className="w-3.5 h-3.5" />, label: "Search hotel Citymax Hotel Bur Dubai", query: "Citymax Hotel Bur Dubai" },
-    { icon: <Info className="w-3.5 h-3.5" />, label: "Find Grand Hyatt", query: "Grand Hyatt" },
-    { icon: <Sparkles className="w-3.5 h-3.5" />, label: "Check dubai hotel", query: "dubai hotel" },
+    { icon: <LayoutGrid className="w-3.5 h-3.5" />, label: "Search Hilton Dubai Jumeirah hotel", query: "Hilton Dubai Jumeirah" },
+    { icon: <Info className="w-3.5 h-3.5" />, label: "Find Pullman Dubai Downtown", query: "Pullman Dubai Downtown" },
+    { icon: <Sparkles className="w-3.5 h-3.5" />, label: "Find dubai hotel", query: "dubai hotel" },
   ];
 
   const fetchmmtdata = async () => {
