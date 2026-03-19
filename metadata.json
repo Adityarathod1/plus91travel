@@ -1,0 +1,5 @@
+{
+  "name": "Plus 91 Travel",
+  "description": "A minimal hotel price comparison app with a chat-style interface and PostgreSQL backend.",
+  "requestFramePermissions": []
+}
